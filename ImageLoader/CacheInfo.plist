@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>totalImageCapacity</key>
+	<integer>4</integer>
+	<key>availableImageCapacity</key>
+	<integer>4</integer>
+	<key>totalDiskCapacity</key>
+	<integer>100000</integer>
+	<key>availableDiskCapacity</key>
+	<integer>100000</integer>
+	<key>cachedImages</key>
+	<array/>
+</dict>
+</plist>
