@@ -1,5 +1,3 @@
-# Avatar Loader Challenge.
-
 ## Author:- Ankur Arya
 email: <ankur.arya@me.com>
 
@@ -10,7 +8,7 @@ This project implements an image loading functionality. This includes below elem
 - CustomImageView: Reusable custom image view class that provides a circular loader.
 - NetworkImageRepo: Repository for downloading images from urls. This also provides info about the data currently downloaded.
 - ImageDownloader: Image Downloader from a given repository (passed as a dependency) with caching.
-- DiskImageCache: It is a cache implementation based on LRU which uses document directory as the storage.
+- DiskImageCache: It is a cache implementation based on LRU which uses cache directory as the storage.
 
 ## Get Started
 
